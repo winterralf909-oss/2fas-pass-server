@@ -36,3 +36,4 @@ For the complete Source Code license terms, see the [LICENSE](LICENSE) file.
 **For developers:** Source code is available for learning, testing, and educational.
 
 **Copyright © 2025 Two Factor Authentication Service, Inc.**
+
